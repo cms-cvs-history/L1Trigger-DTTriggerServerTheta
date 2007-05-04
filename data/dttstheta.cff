@@ -1,6 +1,0 @@
-PSet TSThetaParameters = {
-
-	# Debug flag
-	untracked bool Debug	= 0
-
-}
